@@ -1,0 +1,10 @@
+flashcards/Flashcard.java
+ flashcards.Flashcard
+flashcards/FileHandler.java
+ flashcards.FileHandler
+flashcards/ArgsParser.java
+ flashcards.ArgsParser
+flashcards/Menu.java
+ flashcards.Menu
+flashcards/Main.java
+ flashcards.Main
